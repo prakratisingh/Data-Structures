@@ -5,3 +5,4 @@
 ###### Array insertion
 ###### Array updation
 ###### Array deletion
+###### Array search
