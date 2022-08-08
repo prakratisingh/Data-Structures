@@ -4,3 +4,4 @@
 ###### Array traversal
 ###### Array insertion
 ###### Array updation
+###### Array deletion
