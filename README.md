@@ -6,3 +6,4 @@
 ###### Array updation
 ###### Array deletion
 ###### Array search
+###### 2D Array traversal
