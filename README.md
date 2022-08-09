@@ -4,7 +4,7 @@
 ###### Array traversal
 ###### Array insertion
 ###### Array 
-###### Array 
+###### Array updation
 ###### Array search
 ###### 2D Array traversal
 ###### 2D Array update
