@@ -3,7 +3,7 @@
 ###### Introduction (Will be changed as topics get covered)
 ###### Array traversal
 ###### Array insertion
-###### Array 
+###### Array deletion
 ###### Array updation
 ###### Array search
 ###### 2D Array traversal
