@@ -5,6 +5,6 @@
 ###### Array insertion
 ###### Array deletion
 ###### Array updation
-###### Array search
+###### Array 
 ###### 2D Array traversal
 ###### 2D Array update
