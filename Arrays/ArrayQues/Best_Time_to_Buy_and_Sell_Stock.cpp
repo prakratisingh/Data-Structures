@@ -3,6 +3,7 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
+        //current price stores price of stock currently and profit will store surrent profit
         int curr_price = INT_MAX;
         int profit = 0;
 
