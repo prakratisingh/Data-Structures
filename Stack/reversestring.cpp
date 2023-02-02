@@ -5,7 +5,7 @@ int main()
 {
     string str;
     cin>>str;
-
+    //stack of char type
     stack<char> st;
 
     for(int i=0;i<str.length();i++)
