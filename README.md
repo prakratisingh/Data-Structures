@@ -9,7 +9,10 @@
   <a href="#Bitwise-Operations">Bitwise</a> ~
 </p>
 
-<h2 align="center"><b>Arrays</b></h2>
-#### Basics
+<h2 align="center"><b>Arrays</b>
+</h2>
+
+### Basics
+
 - Deletion,Search,Traverse,Updation<br>
 - Reverse an array<br>
