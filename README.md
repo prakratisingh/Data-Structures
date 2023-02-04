@@ -10,3 +10,6 @@
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
+#### Basics
+--Deletion,Search,Traverse,Updation
+--Reverse an array.
