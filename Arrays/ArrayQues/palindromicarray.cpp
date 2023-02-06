@@ -1,5 +1,8 @@
 //ques link: https://practice.geeksforgeeks.org/problems/palindromic-array-1587115620/1
 
+#include<bits/stdc++.h>
+#include<string>
+using namespace std;
 bool checkPallin(int x)
 {
     string s = to_string(x);
@@ -19,5 +22,4 @@ int PalinArray(int a[], int n)
     	        return 0;
     }
     	    return 1;
-    }
-};
+}
