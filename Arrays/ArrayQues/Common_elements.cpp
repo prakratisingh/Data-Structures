@@ -1,5 +1,7 @@
-//ques link = https://practice.geeksforgeeks.org/problems/common-elements1132/1
-
+//Question link = https://practice.geeksforgeeks.org/problems/common-elements1132/1
+#include<iostream>
+#include<vector>
+using namespace std;
 class Solution
 {
     public:    
