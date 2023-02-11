@@ -1,5 +1,8 @@
 //Ques link = https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
-
+#include<iostream>
+#include<vector>
+#define INT_MAX 100000
+using namespace std;
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
