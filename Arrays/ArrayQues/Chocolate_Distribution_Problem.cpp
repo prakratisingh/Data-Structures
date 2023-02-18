@@ -1,5 +1,5 @@
 //ques link = https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1
-
+//Chocolate Distribution
 class Solution{
     public:
     long long findMinDiff(vector<long long> a, long long n, long long m){
