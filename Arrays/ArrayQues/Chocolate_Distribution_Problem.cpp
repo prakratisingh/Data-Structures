@@ -1,5 +1,8 @@
 //ques link = https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1
 //Chocolate Distribution
+#include<iostream>
+#include<bits/stdc++.h>
+#include<vector>
 class Solution{
     public:
     long long findMinDiff(vector<long long> a, long long n, long long m){
