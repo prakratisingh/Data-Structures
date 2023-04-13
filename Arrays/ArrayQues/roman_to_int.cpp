@@ -12,7 +12,7 @@ public:
         {
         if(mp[s[i]]<mp[s[i+1]])
         {
-            //to handle cases such as IV,CM, XL, etc...
+            //to handle cases such as IV,CM, XL...
             ans = ans-mp[s[i]];
         }
         else
