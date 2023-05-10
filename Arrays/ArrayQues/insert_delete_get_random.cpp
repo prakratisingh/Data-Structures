@@ -42,4 +42,3 @@ public:
         return a[rand()%a.size()];
     }
 };
-
