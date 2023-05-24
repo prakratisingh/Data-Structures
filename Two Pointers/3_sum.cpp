@@ -15,13 +15,16 @@ public:
             int low = i+1, high = n-1;
             while(low < high)
             {
-                if(nums[i] + nums[low] + nums[high] < 0){
+                if(nums[i] + nums[low] + nums[high] < 0)
+                {
                     low++;
                 }
-                else if(nums[i] + nums[low] + nums[high] > 0){
+                else if(nums[i] + nums[low] + nums[high] > 0)
+                {
                     high--;
                 }
-                else{
+                else
+                {
                     output.push_back({nums[i], nums[low], nums[high]});
                     int tempIndex1 = low, tempIndex2 = high;
                     while(low < high && nums[low] == nums[tempIndex1]) low++;
