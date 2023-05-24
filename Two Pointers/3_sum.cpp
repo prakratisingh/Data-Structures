@@ -10,9 +10,11 @@ public:
         int n = nums.size();
         sort(nums.begin(), nums.end());
         vector<vector<int>> output;
-        for(int i=0; i<n-1; i++){
+        for(int i=0; i<n-1; i++)
+        {
             int low = i+1, high = n-1;
-            while(low < high){
+            while(low < high)
+            {
                 if(nums[i] + nums[low] + nums[high] < 0){
                     low++;
                 }
