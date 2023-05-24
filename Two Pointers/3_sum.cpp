@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/3sum/?envType=study-plan-v2&envId=top-interview-150
+//ques link: https://leetcode.com/problems/3sum/?envType=study-plan-v2&envId=top-interview-150
 #include<bits/stdc++.h>
 #include<vector>
 using namespace std;
