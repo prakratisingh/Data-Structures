@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/isomorphic-strings/?envType=study-plan-v2&envId=top-interview-150
+//ques link: https://leetcode.com/problems/isomorphic-strings/?envType=study-plan-v2&envId=top-interview-150
 #include<bits/stdc++.h>
 using namespace std;
 class Solution {
