@@ -1,7 +1,8 @@
 //https://leetcode.com/problems/group-anagrams/?envType=study-plan-v2&envId=top-interview-150
 #include<bits/stdc++.h>
 using namespace std;
-class Solution {
+class Solution 
+{
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) 
     {
