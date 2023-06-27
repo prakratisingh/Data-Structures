@@ -23,7 +23,7 @@ public:
             } 
             else 
             {
-                ++ left;
+                ++left;
             }
         } 
         return res;
