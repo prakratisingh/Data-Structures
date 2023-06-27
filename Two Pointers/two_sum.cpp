@@ -12,7 +12,7 @@ public:
         vector<int> res;
         while(left < right) 
         {
-            if(numbers[left] + numbers[right] == target) 
+            if(numbers[left] + numbers[right]==target) 
             {
                 res = {left + 1, right + 1};
                 return res;
