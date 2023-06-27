@@ -19,7 +19,7 @@ public:
             } 
             else if(numbers[left] + numbers[right] > target) 
             {
-                -- right;
+                --right;
             } 
             else 
             {
