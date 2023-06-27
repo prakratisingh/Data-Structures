@@ -17,7 +17,7 @@ public:
                 res = {left + 1, right + 1};
                 return res;
             } 
-            else if(numbers[left] + numbers[right] > target) 
+            else if(numbers[left] + numbers[right]>target) 
             {
                 --right;
             } 
