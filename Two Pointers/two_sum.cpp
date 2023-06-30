@@ -2,7 +2,8 @@
 #include<bits/stdc++.h>
 #include<vector>
 using namespace std;
-class Solution {
+class Solution 
+{
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
         int left = 0;
