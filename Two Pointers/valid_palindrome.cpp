@@ -1,7 +1,8 @@
 //ques link: https://leetcode.com/problems/valid-palindrome/?envType=study-plan-v2&envId=top-interview-150
 #include<bits/stdc++.h>
 using namespace std;
-class Solution {
+class Solution 
+{
 public:
     bool isPalindrome(string s) 
     {
