@@ -9,7 +9,7 @@ public:
         int n=s.size(), l=0, r=n-1;
         while(l<r)
         {
-            while(l<r && !isalnum(s[l]))
+            while(l<r && (!isalnum(s[l])))
             {
                 l++;
             }
