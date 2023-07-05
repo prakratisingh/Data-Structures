@@ -1,6 +1,7 @@
 //coding ninjas question
 //Link - https://www.codingninjas.com/codestudio/problems/count-leaf-nodes_893055
-
+#include<bits/stdc++.h>
+using namespace std;
 void InOrder(BinaryTreeNode<int> *root, int &count)
 {
     //cout<<"In Order: "<<endl;
@@ -19,4 +20,8 @@ int noOfLeafNodes(BinaryTreeNode<int> *root){
     int count=0;
     InOrder(root, count);
     return count;
+}
+int main()
+{
+    
 }
