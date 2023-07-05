@@ -13,7 +13,7 @@ public:
             {
                 l++;
             }
-            while(l<r && !isalnum(s[r]))
+            while(l<r && (!isalnum(s[r])))
             {
                 r--;
             }
