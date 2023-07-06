@@ -4,6 +4,7 @@ using namespace std;
 class Solution 
 {
 public:
+    //function
     bool isPalindrome(string s) 
     {
         int n=s.size(), l=0, r=n-1;
