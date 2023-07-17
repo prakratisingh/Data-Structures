@@ -15,16 +15,13 @@ public:
             for(int j=0;j<9;j++)
             {
                 char curr = board[i][j];
-
                 if(curr!='.')
                 {
                     string row_str = to_string(i)+curr;
                     string col_str = to_string(j)+curr;
                     string mat_str = to_string(i/3) + to_string(j/3)+ curr;
-
                     if(row.count(row_str)||col.count(col_str)||mat.count(mat_str))
                         return false;
-                    
                     row.insert(row_str);
                     col.insert(col_str);
                     mat.insert(mat_str);
