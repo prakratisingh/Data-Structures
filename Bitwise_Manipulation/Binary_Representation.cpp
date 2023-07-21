@@ -1,5 +1,6 @@
 //Ques link = https://practice.geeksforgeeks.org/problems/binary-representation5003/1
-
+#include<bits/stdc++.h>
+using namespacestd;
 class Solution
 {
 public:
