@@ -1,7 +1,7 @@
 //ques link: https://leetcode.com/problems/merge-two-sorted-lists/?envType=study-plan-v2&envId=top-interview-150
 #include<bits/stdc++.h>
 using namespace std;
-/**
+/*
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
